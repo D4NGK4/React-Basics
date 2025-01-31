@@ -1,0 +1,1 @@
+All the code in this repository is sourced from https://nextjs.org/learn/react-foundations/
